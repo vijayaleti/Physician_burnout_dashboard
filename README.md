@@ -2,7 +2,7 @@
 
 # Physician Burnout Dashboard
 
-🏥 **A comprehensive data analysis dashboard for examining physician workload trends and clustering physicians by workload intensity**
+**A comprehensive data analysis dashboard for examining physician workload trends and clustering physicians by workload intensity**
 
 
 ## 📊 Features
