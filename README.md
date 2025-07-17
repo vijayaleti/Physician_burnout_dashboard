@@ -29,18 +29,6 @@
 
 Install all dependencies:
 
-## Requirements
-
-- Python 3.7+
-- pandas
-- numpy
-- scikit-learn
-- dash
-- plotly
-- openpyxl
-
-Install all dependencies:
-
 ## Data Schema
 
 The dashboard expects an Excel file with a "MetricData" sheet containing:
